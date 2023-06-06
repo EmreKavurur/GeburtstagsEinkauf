@@ -8,7 +8,6 @@ class GeburtstagseinkauflisteApplicationTests {
 
 	@Test
 	void contextLoads() {
-		throw new RuntimeException("Nur zum Testen - part2.");
 	}
 
 }
